@@ -4,3 +4,4 @@ Vil der være mere tekst her
 Dette er femte opskrift
 en nyt commit
 en masse små commits
+en mindre commit
