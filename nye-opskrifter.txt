@@ -2,3 +2,9 @@ Her skal de nye opskrifter ind, som ikke skal i developer endnu
 Her er der så noget mere tekst
 Vil der være mere tekst her
 Dette er femte opskrift
+en nyt commit
+en masse små commits
+en mindre commit
+EN mindre commit
+Femte
+Femte opskrift hvor vi ændre bilioteket
